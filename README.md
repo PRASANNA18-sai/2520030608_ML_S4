@@ -9,7 +9,7 @@ This repository contains the complete academic work for the Machine Learning cou
 - **Name:** Sai Prasanna
 - **Roll Number:** 2520030608
 - **Course:** Machine Learning
-- **Semester:** IV
+- **Semester:** 2.1
 - **Academic Year:** 2026–2027
 
 ---
